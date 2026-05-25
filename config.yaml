@@ -1,0 +1,20 @@
+# MediVigil Configuration (Hospital Edition)
+hardware:
+  gpu_enabled: true
+  device: "cuda"
+  half_precision: true
+
+detection:
+  yolo_model: "models/yolo11n.pt"
+  max_faces: 4
+
+mediguard:
+  window_size: 30
+  fps_target: 60
+
+thresholds:
+  critical_distress: 85.0
+  drowsiness: 80.0
+  agitation: 75.0
+  breathing_difficulty: 80.0
+  needs_help: 75.0

@@ -1,0 +1,12 @@
+numpy
+opencv-python
+torch
+torchvision
+ultralytics
+mediapipe
+streamlit
+plotly
+pyyaml
+pandas
+pytest
+scipy
