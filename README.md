@@ -1,3 +1,4 @@
+<img width="645" height="511" alt="DH" src="https://github.com/user-attachments/assets/aaf052a1-9b09-4d8f-88cc-f3130edaa8f2" />
 # MediVigil: Hospital Patient Facial Monitoring System
 **Coder / Lead Developer:** Drupad H
 
